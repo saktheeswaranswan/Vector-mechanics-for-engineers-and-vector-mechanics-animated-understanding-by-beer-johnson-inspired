@@ -1,0 +1,492 @@
+Below are separate, fully copyable video-generation snippets, each containing its own metadata, character identity lock, reference-image instructions, Tamil dialogue, visual direction, audio instructions, and negative prompt.
+
+Use them as separate 10-second clips. They are designed to be generated independently while maintaining continuity across the series. Each snippet includes its own metadata, so you can copy it directly into your video-generation tool.
+
+The clips progress from the welcome and introduction to vectors, components, free-body diagrams, equilibrium, and real-life engineering applications.
+
+### Snippet 1 — Grand Welcome to Vector Mechanics
+
+```text
+PROJECT: VECTOR MECHANICS FOR ENGINEERING
+SNIPPET: 01 — GRAND WELCOME
+DURATION: 10 seconds
+ASPECT RATIO: 16:9
+RESOLUTION: 1920x1080 minimum; 4K preferred
+FRAME RATE: 24 fps
+VISUAL STYLE: Photorealistic cinematic engineering documentary
+LANGUAGE: Tamil with standard English engineering terminology
+LOCATION: Monumental Roman Colosseum-style engineering arena
+PRIMARY SPEAKER: Heavy-built adult Tamil man in a black shirt
+SECOND CHARACTER: Adult Tamil man in a red shirt
+AUDIENCE: Thousands of engineering students
+CAMERA: Smooth cinematic dolly-in
+LIGHTING: Warm natural sunlight with subtle blue holographic illumination
+AUDIO: Natural Tamil speech, realistic arena ambience, accurate lip synchronization
+
+REFERENCE IMAGE INSTRUCTIONS:
+When reference images are supplied, use the correct image for each character.
+Preserve the exact face, body proportions, skin tone, hairstyle, apparent age,
+clothing, and identity. Do not morph, age, de-age, replace, or blend characters.
+The black-shirt man remains the primary speaker. The red-shirt man remains silent.
+
+SCENE:
+An enormous Colosseum-inspired amphitheatre surrounds a circular stone platform.
+Thousands of engineering students occupy the curved seating tiers.
+The heavy-built Tamil presenter stands beside the red-shirt engineering learner.
+The presenter looks towards the audience with a welcoming expression.
+
+TIMELINE:
+00:00–00:02: Reveal the immense arena with a smooth forward camera movement.
+00:02–00:05: Frame the black-shirt presenter and red-shirt learner together.
+00:05–00:08: The presenter welcomes the audience with one natural open-hand gesture.
+00:08–00:10: A subtle blue coordinate grid appears beside the presenter.
+
+EXACT SPOKEN TAMIL:
+"வணக்கம் நண்பர்களே! இன்று நாம் Vector Mechanics-ஐ அடிப்படையிலிருந்து கற்போம்!"
+
+DELIVERY:
+Natural, confident Tamil lecturer's voice. Speak clearly and warmly.
+The red-shirt man listens attentively and does not speak.
+Synchronize the presenter's mouth precisely with the dialogue.
+
+VISUAL DETAILS:
+Realistic stone architecture, natural skin texture, stable facial identity,
+believable hands, realistic clothing folds, coherent shadows and perspective.
+Keep both characters recognizable in every frame.
+
+NEGATIVE PROMPT:
+No face morphing, no aging, no de-aging, no identity swapping, no character fusion,
+no clothing changes, no black-to-red shirt changes, no extra fingers, no distorted
+hands, no duplicated characters, no random text, no incorrect Tamil subtitles,
+no artificial plastic skin, no cartoon appearance, no camera teleportation,
+no flickering audience, no exaggerated facial expressions.
+
+FINAL FRAME:
+The presenter stands confidently beside the red-shirt learner while the audience
+faces the central platform. Preserve both identities for the next clip.
+```
+
+### Snippet 2 — What Is a Vector?
+
+```text
+PROJECT: VECTOR MECHANICS FOR ENGINEERING
+SNIPPET: 02 — MEANING OF A VECTOR
+DURATION: 10 seconds
+ASPECT RATIO: 16:9
+RESOLUTION: 1920x1080 minimum; 4K preferred
+FRAME RATE: 24 fps
+VISUAL STYLE: Photorealistic scientific education
+LANGUAGE: Tamil with English scientific terms
+LOCATION: Same Colosseum-style engineering arena
+PRIMARY SPEAKER: Same heavy-built Tamil man in the black shirt
+SECOND CHARACTER: Same Tamil man in the red shirt
+CAMERA: Medium-wide shot with a gentle lateral movement
+LIGHTING: Consistent warm sunlight and subtle blue scientific graphics
+AUDIO: Clear Tamil speech and quiet arena ambience
+
+REFERENCE IMAGE AND CONTINUITY:
+Use the supplied character images as the authoritative identity references.
+If continuing from Snippet 01, retain the same two faces, clothing, apparent age,
+body build, skin tone, and hairstyles. No morphing or redesign.
+Keep the black-shirt man speaking and the red-shirt man listening.
+
+SCENE:
+The two men stand on the same circular stone platform.
+A large floating coordinate system appears beside the presenter.
+The red-shirt learner looks towards the scientific demonstration.
+
+EXACT SPOKEN TAMIL:
+"ஒரு Vector-க்கு Magnitude, Direction இரண்டும் முக்கியம். அதாவது அளவும் திசையும்!"
+
+TIMELINE:
+00:00–00:02: The presenter introduces a coordinate system.
+00:02–00:05: A single arrow appears, starting at the origin and pointing diagonally.
+00:05–00:08: Label the arrow F. Display its magnitude and angle theta.
+00:08–00:10: The red-shirt learner studies the vector while the presenter gestures.
+
+SCIENTIFIC GRAPHICS:
+Show horizontal X and vertical Y axes.
+Draw one vector F with a clear arrowhead.
+Measure theta counterclockwise from the positive X-axis.
+Show magnitude as a separate numerical property and direction as an angle.
+
+EDUCATIONAL ACCURACY:
+A vector has magnitude and direction.
+A scalar has magnitude but does not require a direction for its ordinary
+physical representation. Do not label mass or temperature as vectors.
+
+AUDIO:
+Natural Tamil pronunciation. The presenter is the only speaker.
+No crowd dialogue. No unintelligible background speech.
+
+NEGATIVE PROMPT:
+No identity changes, no face blending, no aging, no de-aging, no clothing changes,
+no random vector rotations, no incorrect axes, no malformed arrows, no wrong labels,
+no illegible mathematics, no distorted hands, no overlapping faces, no cartoon style.
+
+FINAL FRAME:
+Keep vector F and its coordinate axes clearly visible.
+Maintain the same character positions and identities for the next clip.
+```
+
+### Snippet 3 — Vector Components and Mathematics
+
+```text
+PROJECT: VECTOR MECHANICS FOR ENGINEERING
+SNIPPET: 03 — RESOLUTION OF A VECTOR
+DURATION: 10 seconds
+ASPECT RATIO: 16:9
+RESOLUTION: 1920x1080 minimum; 4K preferred
+FRAME RATE: 24 fps
+VISUAL STYLE: Photorealistic engineering lecture with accurate mathematical holograms
+LANGUAGE: Tamil with standard English mathematics terminology
+LOCATION: Same monumental engineering arena
+PRIMARY SPEAKER: Same black-shirt Tamil presenter
+SECOND CHARACTER: Same red-shirt Tamil learner
+CAMERA: Medium-wide shot, stable and smooth
+LIGHTING: Consistent daylight with blue mathematical graphics
+AUDIO: Clear Tamil speech with natural arena reverberation
+
+REFERENCE IMAGE LOCK:
+Use the original input images for both men when available.
+Preserve facial geometry, body size, hairstyle, skin tone, clothing, and apparent age.
+The black-shirt presenter speaks. The red-shirt learner remains silent.
+No morphing, aging, de-aging, or identity replacement.
+
+SCENE:
+A three-dimensional vector diagram floats beside the presenter.
+The main vector F points diagonally upward from the origin.
+Its horizontal and vertical component projections appear accurately.
+
+EXACT SPOKEN TAMIL:
+"சாய்வான Vector-ஐ X மற்றும் Y Components-ஆகப் பிரித்தால் கணக்கிடுவது எளிதாகும்!"
+
+TIMELINE:
+00:00–00:02: Display the original vector F and coordinate axes.
+00:02–00:05: Draw the horizontal component Fx.
+00:05–00:07: Draw the vertical component Fy.
+00:07–00:10: Display the equations and their geometric relationship.
+
+EQUATIONS:
+Fx = F cos(theta)
+Fy = F sin(theta)
+
+Use theta measured from the positive X-axis.
+The original vector must equal the vector sum of its components.
+Use geometrically consistent arrow lengths and orientations.
+
+SCIENTIFIC ACCURACY:
+The equations apply to a two-dimensional vector with the stated angle convention.
+Do not reverse sine and cosine.
+Do not show incorrect component signs.
+Do not display equations unrelated to the illustrated vector.
+
+VISUAL DESIGN:
+Use clean, high-contrast scientific labels.
+Avoid unnecessary equations and decorative symbols.
+Keep the presenter and learner visible without covering their faces.
+
+NEGATIVE PROMPT:
+No morphing, no aging, no face swapping, no body changes, no shirt changes,
+no random equations, no wrong trigonometric formulas, no reversed axes,
+no floating component arrows without a common origin or valid geometry,
+no illegible text, no distorted hands, no camera shake.
+
+FINAL FRAME:
+Show F, Fx, Fy, X, Y, and theta in a mathematically consistent diagram.
+```
+
+### Snippet 4 — Free-Body Diagram in Real Life
+
+```text
+PROJECT: VECTOR MECHANICS FOR ENGINEERING
+SNIPPET: 04 — FREE-BODY DIAGRAM
+DURATION: 10 seconds
+ASPECT RATIO: 16:9
+RESOLUTION: 1920x1080 minimum; 4K preferred
+FRAME RATE: 24 fps
+VISUAL STYLE: Photorealistic engineering demonstration
+LANGUAGE: Tamil with English technical terminology
+LOCATION: Same Colosseum-style engineering arena
+PRIMARY SPEAKER: Same heavy-built man in the black shirt
+SECOND CHARACTER: Same man in the red shirt
+CAMERA: Stable medium-wide composition with a slight push-in
+LIGHTING: Warm daylight with precise scientific holograms
+AUDIO: Natural Tamil lecturer voice and quiet ambient sound
+
+CHARACTER IDENTITY LOCK:
+Use the supplied reference images for both characters.
+Preserve exact identities, facial details, body proportions, apparent age,
+skin tone, hairstyles, and clothing. Never morph or replace either person.
+The black-shirt presenter speaks. The red-shirt learner listens.
+
+SCENE:
+A realistic small block rests on a horizontal table in the holographic demonstration.
+The presenter gestures towards the block.
+A simplified free-body diagram appears beside it.
+
+EXACT SPOKEN TAMIL:
+"Free Body Diagram-ல் பொருளைத் தனியாகக் காட்டி, அதன் மீது செயல்படும் Forces-ஐ வரைவோம்!"
+
+TIMELINE:
+00:00–00:02: Show a block resting on a table.
+00:02–00:04: Visually isolate the block from its surroundings.
+00:04–00:07: Draw the external forces with clear arrowheads.
+00:07–00:10: Show the simplified free-body diagram beside the presenter.
+
+REQUIRED FORCES:
+W = weight, vertically downward.
+N = normal reaction, vertically upward.
+Use a horizontal surface and a stationary block.
+Assume no other vertical forces act on the block.
+
+Under these assumptions, vertical equilibrium requires N = W.
+Do not add an applied horizontal force unless the diagram also accounts for
+the relevant horizontal forces and conditions.
+
+SCIENTIFIC ACCURACY:
+A free-body diagram isolates the selected body and shows the external forces
+and moments relevant to the chosen mechanical model.
+Do not include the support itself as an additional force arrow on the isolated body.
+Do not confuse an action-reaction pair with two forces acting on the same body.
+
+NEGATIVE PROMPT:
+No identity changes, no morphing, no aging, no incorrect force directions,
+no missing weight, no random arrows, no duplicated normal forces, no impossible
+contact points, no incorrect equilibrium claims, no unreadable labels,
+no extra fingers, no cartoon appearance.
+
+FINAL FRAME:
+The block and its free-body diagram remain clearly visible.
+Both main characters retain their exact identities.
+```
+
+### Snippet 5 — Force Equilibrium
+
+```text
+PROJECT: VECTOR MECHANICS FOR ENGINEERING
+SNIPPET: 05 — EQUILIBRIUM OF FORCES
+DURATION: 10 seconds
+ASPECT RATIO: 16:9
+RESOLUTION: 1920x1080 minimum; 4K preferred
+FRAME RATE: 24 fps
+VISUAL STYLE: Photorealistic engineering science documentary
+LANGUAGE: Tamil with standard English engineering terms
+LOCATION: Same Colosseum-style arena and central platform
+PRIMARY SPEAKER: Same black-shirt presenter
+SECOND CHARACTER: Same red-shirt learner
+CAMERA: Smooth medium shot
+LIGHTING: Warm sunlight and blue vector overlays
+AUDIO: Clear Tamil speech, minimal crowd ambience
+
+REFERENCE IMAGE LOCK:
+Use the original reference images when supplied.
+Keep both characters visually identical to previous clips.
+No facial morphing, aging, de-aging, body changes, or clothing changes.
+The black-shirt presenter speaks; the red-shirt man remains silent.
+
+SCENE:
+Show a simple particle at the centre of a coordinate system.
+Several force arrows act on the particle.
+Display a separate resultant arrow when the forces do not balance.
+Then show the balanced-force example.
+
+EXACT SPOKEN TAMIL:
+"ஒரு பொருள் Equilibrium-ல் இருக்க, மொத்த Force பூஜ்ஜியமாக இருக்க வேண்டும்!"
+
+TIMELINE:
+00:00–00:03: Show forces acting on a particle.
+00:03–00:06: Resolve forces into horizontal and vertical components.
+00:06–00:08: Display the equilibrium equations.
+00:08–00:10: Show the balanced example while the learner observes.
+
+EQUATIONS:
+Sum Fx = 0
+Sum Fy = 0
+
+For three-dimensional particle equilibrium:
+Sum Fx = 0
+Sum Fy = 0
+Sum Fz = 0
+
+SCIENTIFIC ACCURACY:
+These equations apply to a particle in static equilibrium or a system whose
+resultant acceleration is zero under the stated model.
+If the net force is not zero, show a nonzero resultant.
+Do not depict an accelerating object as being in force equilibrium.
+
+VISUAL DETAILS:
+Use correctly directed force arrows.
+Maintain a consistent coordinate system.
+Keep the equations legible and avoid unnecessary text.
+
+NEGATIVE PROMPT:
+No character morphing, no aging, no shirt changes, no incorrect force balance,
+no false zero-resultant claim, no wrong axes, no malformed arrows, no illegible
+equations, no distorted hands, no camera teleportation, no flickering crowd.
+
+FINAL FRAME:
+The equilibrium diagram and equations are clear.
+Both characters remain visually consistent.
+```
+
+### Snippet 6 — Vector Applications in Real Engineering
+
+```text
+PROJECT: VECTOR MECHANICS FOR ENGINEERING
+SNIPPET: 06 — FROM MATHEMATICS TO ENGINEERING
+DURATION: 10 seconds
+ASPECT RATIO: 16:9
+RESOLUTION: 1920x1080 minimum; 4K preferred
+FRAME RATE: 24 fps
+VISUAL STYLE: Photorealistic cinematic engineering documentary
+LANGUAGE: Tamil with English engineering terminology
+LOCATION: Same enormous Colosseum-style educational arena
+PRIMARY SPEAKER: Same heavy-built Tamil man in the black shirt
+SECOND CHARACTER: Same Tamil man in the red shirt
+CAMERA: Smooth cinematic dolly movement
+LIGHTING: Natural sunlight and restrained blue scientific overlays
+AUDIO: Clear Tamil speech, quiet ambience, no competing voices
+
+REFERENCE IMAGE AND CHARACTER CONTINUITY:
+Use the supplied input images as the authoritative identity references.
+Preserve faces, hairstyles, skin tone, apparent age, body proportions, and clothing.
+The presenter remains in black; the learner remains in red.
+No morphing, aging, de-aging, face swapping, or character fusion.
+
+SCENE:
+The two men stand on the arena platform.
+A sequence of small holographic engineering examples appears around them:
+an inclined rope pulling a cart, a supported beam, a ladder, a crane cable,
+and a moving vehicle.
+
+EXACT SPOKEN TAMIL:
+"Force, Moment, Friction, Motion எனப் பல Engineering Problems-ல் Vectors பயன்படுகின்றன!"
+
+TIMELINE:
+00:00–00:02: Display the cart and inclined pulling force.
+00:02–00:04: Transition to a supported beam with load arrows.
+00:04–00:06: Display a ladder and appropriate contact-force arrows.
+00:06–00:08: Show a crane cable and a moving vehicle.
+00:08–00:10: Return focus to the presenter and learner.
+
+ENGINEERING APPLICATIONS:
+Force resolution and resultants.
+Free-body diagrams.
+Rigid-body equilibrium.
+Moments and couples.
+Support reactions.
+Distributed loads.
+Friction.
+Rectilinear and curvilinear motion.
+Newton's second law.
+Work, energy, impulse, and momentum.
+
+SCIENTIFIC ACCURACY:
+Keep each example physically meaningful.
+A cable tension acts along the cable.
+A weight vector points downward in the ordinary near-Earth model.
+A normal reaction acts perpendicular to the contact surface.
+Friction direction depends on the relative or impending relative motion.
+Velocity and acceleration are different vector quantities.
+
+Do not suggest that every topic is fully taught in this short clip.
+The purpose is to show the breadth of real-world applications.
+
+NEGATIVE PROMPT:
+No character morphing, no aging, no clothing changes, no wrong force directions,
+no physically impossible mechanisms, no random vectors, no false equations,
+no unreadable text, no duplicated characters, no unstable architecture,
+no cartoon rendering, no distracting action effects.
+
+FINAL FRAME:
+The black-shirt presenter gestures towards the engineering examples.
+The red-shirt learner looks towards the presenter.
+Preserve continuity for the next educational episode.
+```
+
+### Snippet 7 — Anna University Engineering Mechanics Roadmap
+
+```text
+PROJECT: VECTOR MECHANICS FOR ENGINEERING
+SNIPPET: 07 — ENGINEERING MECHANICS LEARNING ROADMAP
+DURATION: 10 seconds
+ASPECT RATIO: 16:9
+RESOLUTION: 1920x1080 minimum; 4K preferred
+FRAME RATE: 24 fps
+VISUAL STYLE: Photorealistic university engineering education
+LANGUAGE: Tamil with standard English subject terminology
+LOCATION: Same Colosseum-style arena
+PRIMARY SPEAKER: Same black-shirt Tamil presenter
+SECOND CHARACTER: Same red-shirt Tamil learner
+CAMERA: Medium-wide shot with slow forward movement
+LIGHTING: Warm natural light and clean blue educational graphics
+AUDIO: Natural Tamil voice and quiet arena ambience
+
+CHARACTER IDENTITY LOCK:
+Use the same reference images for both characters.
+Preserve the exact faces, body builds, skin tone, hairstyles, apparent ages,
+and clothing. No morphing, aging, de-aging, identity replacement, or face swapping.
+Only the black-shirt presenter speaks.
+
+SCENE:
+A large holographic syllabus roadmap appears beside the presenter.
+Use five clearly separated topic labels.
+The red-shirt learner looks at the roadmap.
+
+EXACT SPOKEN TAMIL:
+"Statics, Rigid Body Equilibrium, Distributed Forces, Friction, Dynamics—இவற்றை படிப்படியாகக் கற்போம்!"
+
+TIMELINE:
+00:00–00:02: Introduce the syllabus roadmap.
+00:02–00:04: Highlight Statics and Rigid Body Equilibrium.
+00:04–00:06: Highlight Distributed Forces and Friction.
+00:06–00:08: Highlight Dynamics.
+00:08–00:10: Return to the two characters and the arena audience.
+
+ROADMAP:
+1. Statics of Particles.
+2. Equilibrium of Rigid Bodies.
+3. Distributed Forces.
+4. Friction.
+5. Dynamics of Particles.
+
+CURRICULUM NOTE:
+This roadmap reflects the broad unit structure of the Anna University Regulation
+2021 ME3351 Engineering Mechanics syllabus. Verify the exact course code and
+regulation for the intended programme before using it as an official syllabus claim.
+
+Do not add invented university logos, certification marks, or official endorsements.
+Do not claim that this single video completes the university course.
+
+VISUAL DESIGN:
+Use clean English unit titles and restrained highlighting.
+Keep the main characters visible.
+Avoid dense paragraphs or tiny text.
+
+NEGATIVE PROMPT:
+No identity changes, no morphing, no aging, no shirt changes, no invented logos,
+no incorrect syllabus labels, no garbled text, no random equations, no crowd
+flickering, no distorted anatomy, no cartoon appearance.
+
+FINAL FRAME:
+The presenter and learner stand before the five-topic roadmap, ready to begin
+the first lesson.
+```
+
+### Recommended generation settings
+
+| Setting               | Recommended value                             |
+| --------------------- | --------------------------------------------- |
+| Clip duration         | 10 seconds each                               |
+| Aspect ratio          | 16:9                                          |
+| Frame rate            | 24 fps                                        |
+| Visual style          | Photorealistic                                |
+| Dialogue              | Tamil, with English technical terms           |
+| Character reference   | Reuse the same images for every clip          |
+| Character consistency | Highest available reference/identity strength |
+| Camera motion         | Smooth, moderate                              |
+| Audio                 | Tamil speech with lip synchronization         |
+| Scientific graphics   | Simple, legible, mathematically correct       |
+
+Important: Generate each snippet separately and reuse the same reference images and, where supported, the previous clip's final frame. This improves continuity but cannot guarantee perfect identity preservation in every video model. For the 10-second clips, keep the spoken lines short enough for natural Tamil delivery; use the longer engineering explanations as instructions for the visuals and as material for later lessons.
